@@ -84,7 +84,7 @@ export const Navbar: React.FC<NavbarProps> = ({ speed, scrollProgress }) => {
 
             {/* GitHub Link */}
             <a
-              href="https://github.com"
+              href="https://github.com/syamamaheshchand/itsfizz-scroll-car-animation"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-xl bg-white/5 hover:bg-white/10 text-slate-300 hover:text-white border border-white/10 transition-colors"
